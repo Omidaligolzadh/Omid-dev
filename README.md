@@ -25,7 +25,7 @@
 
 ### 📈 وضعیت گیت‌هاب من:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Omid-dev&show_icons=true&theme=radical)
 
 > جای `Omid-dev`، یوزرنیم واقعی خودتو بذار
 
