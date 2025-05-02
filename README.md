@@ -11,7 +11,7 @@
 
 ### 🛠 مهارت‌ها:
 
-- HTML5 / CSS3 / JavaScript
+- HTML5 / CSS3 / JavaScript / C# / Asp.net core and MVC
 - Git & GitHub (در حال یادگیری)
 - در حال تمرین پروژه‌های فرانت‌اند
 
