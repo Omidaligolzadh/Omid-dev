@@ -27,14 +27,13 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=USERNAME_HERE&show_icons=true&theme=radical)
 
-> جای `USERNAME_HERE`، یوزرنیم واقعی خودتو بذار
+> جای `Omid-dev`، یوزرنیم واقعی خودتو بذار
 
 ---
 
 ### 📫 راه‌های ارتباط با من:
-- 📧 ایمیل: yourname@gmail.com
-- 🌐 سایت شخصی (اگه داشتی)
-- 📱 آپارات یا یوتیوب (اگه داشتی)
+- 📧 ایمیل: omidaligolzadh@gmail.com
+
 
 ---
 
